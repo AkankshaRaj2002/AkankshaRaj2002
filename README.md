@@ -1,3 +1,4 @@
+![logo](https://github.com/AkankshaRaj2002/AkankshaRaj2002/blob/main/github%20akank.jpg)
 <h1 align="center">Hi 👋, I'm Akanksha Raj</h1>
 <h3 align="center">Passionate about using advanced analysis to extract valuable insights .</h3>
 
